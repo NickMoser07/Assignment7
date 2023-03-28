@@ -1,0 +1,12 @@
+calculate how long the last line will be
+
+determine how many spaces the first line will be
+
+make a series of variables to hold the current line, and how many spaces i need
+
+add the spaces to the beggining of the line
+
+subtract the amount of spaces at the begginning for each line
+add extra spaces if the number is below 10
+
+print the line
